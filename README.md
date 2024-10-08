@@ -2,4 +2,4 @@
 Currency Convert in Flutter
 
 ## Important
-- Code in branch Master!
+- Code in the branch Master!
